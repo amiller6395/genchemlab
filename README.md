@@ -12,8 +12,16 @@ Features common functions and conversions useful to both faculty and students.
 + Error Analysis (%Error & &Yield)
         Solve for %Error
         Solve for %Yield    
-+ Ideal Gas Law (PV=nRT)
-    Solve for P; (Boyle's Law [https://en.wikipedia.org/wiki/Boyle%27s_law];)
-    Solve for V; (Charles' Law [https://en.wikipedia.org/wiki/Charles%27s_law];)
-    Solve for T; (Gay_Lussac's Law [https://en.wikipedia.org/wiki/Gay-Lussac%27s_law];)
++ Ideal Gas Law (PV=nRT) (https://en.wikipedia.org/wiki/Ideal_gas_law)
+        Solve for P; 
+        Solve for V; 
+        Solve for T; 
+        
++ Titration Curve Analysis (Plot: pH vs. Volume; IMPORT .xlsx or .csv file)
+        Solve for half-equivalence point;
+        Solve for full-equivalence point;
 
++ Soluability Tester
++ Reaction Order Analysis
++
++
